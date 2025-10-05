@@ -29,3 +29,6 @@ The game is not open-world but consists of linear or semi-linear levels where th
    https://github.com/mohamedeljallali/SunnyLand_2D.git
 2. Open **Game Buid** folder, and run **SunnyLand2D.exe** to play game
 3. **Asset** folder contain most game elements and resources such as 3D character models, rig animations, visual effects, programming logic, and more...
+
+## Project status
+This project is currently in development and unfinished. Contributions, suggestions, and feedback are welcome 🤝.
